@@ -6,7 +6,8 @@ Latest Videos: Ban Speedrun https://www.youtube.com/watch?v=eENqce4Zzj4
                
                
                
-               Showcase: https://www.youtube.com/watch?v=NWWlaQxTXNI&t=12s
+               Showcase: https://www.youtube.com/watch?v=NWWlaQxTXNI&t
+           
 
 
 Changes: 
