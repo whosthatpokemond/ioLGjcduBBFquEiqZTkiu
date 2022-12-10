@@ -34,3 +34,7 @@ Changes:
 
 
 1.0: Added Fist Aura and Stomp Aura (Unequip Fist if you want it to stop!) workiing on synapse crash fix when using aura
+
+--// FREE VERSION OF SCHUB
+--// + ITS SHITTY SO I WONT UPDATE THIS NO MORE
+loadstring(game:HttpGet('https://raw.githubusercontent.com/whosthatpokemond/ioLGjcduBBFquEiqZTkiu/main/waddaup.lua'))()
